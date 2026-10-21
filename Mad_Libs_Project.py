@@ -1,6 +1,6 @@
 import math
 import random
-adjective1 = input("Give an adjective:\n")
+adjective1 = input("\nStory: Mining Away\nGive an adjective:\n")
 noun1 = input("Give a noun:\n")
 name = input("Give a name:\n")
 past_tense_verb1 = input("Past tense verb:\n")
