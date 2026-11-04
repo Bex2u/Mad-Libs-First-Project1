@@ -1,3 +1,4 @@
+# By Becker Viteri and Arjun Vazir
 import math
 import random
 adjective1 = input("\nStory: Mining Away\nGive an adjective:\n")
